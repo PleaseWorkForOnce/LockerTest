@@ -77,6 +77,84 @@
          "Owner":4592836171
       }
    },
+   "Mano County Park Rangers":{
+      "GroupID":34288081,
+      "ClassA":{
+         "Trainee":4586604614,
+         "Sheriff Deputy":4586604614,
+         "Deputy First Class":4586607852,
+         "Corporal":4586612945,
+         "Sergeant":4586619514,
+         "Lieutenant":4586637334,
+         "Captain":4586641228,
+         "Devedloper":4592789385,
+         "Head Developer":4592804704,
+         "Major":4592819039,
+         "Member":4758501231,
+         "Developer":4758501231,
+         "Owner":4758501231
+      },
+      "ClassB":{
+         "Trainee":4586605866,
+         "Sheriff Deputy":4586605866,
+         "Deputy First Class":4586609101,
+         "Corporal":4586614105,
+         "Sergeant":4586631740,
+         "Lieutenant":4586639446,
+         "Captain":4586642940,
+         "Dedveloper":4592790907,
+         "Head Developer":4592812550,
+         "Major":4592820106,
+         "Member":4758500114,
+         "Developer":4758500114,
+         "Owner":4758500114
+      },
+      "ClassC":{
+         "Trainee":4586606828,
+         "Sheriff Deputy":4586606828,
+         "Deputy First Class":4586610010,
+         "Corporal":4586615795,
+         "Sergeant":4586633300,
+         "Lieutenant":4586640410,
+         "Captain":4586644379,
+         "Develodper":4592792533,
+         "Head Developer":4592814295,
+         "Major":4592821934,
+         "Member":4758499406,
+         "Developer":4758499406,
+         "Owner":4758499406
+      },
+      "Jacket":{
+         "Trainee":5857126579,
+         "Sheriff Deputy":5857126579,
+         "Deputy First Class":5857126579,
+         "Corporal":5857126579,
+         "Sergeant":5857126579,
+         "Lieutenant":5857126579,
+         "Captain":5857126579,
+         "Develdoper":5857127293,
+         "Head Developer":5857127293,
+         "Major":5857127293,
+         "Member":4758498447,
+         "Developer":4758498447,
+         "Owner":4758498447
+      },
+      "Pants":{
+         "Trainee":4592830488,
+         "Sheriff Deputy":4592830488,
+         "Deputy First Class":4592830488,
+         "Corporal":4592830488,
+         "Sergeant":4592830488,
+         "Lieutenant":4592830488,
+         "Captain":4592830488,
+         "Devedloper":4592836171,
+         "Head Developer":4592836171,
+         "Major":4592836171,
+         "Member":4758502092,
+         "Developer":4758502092,
+         "Owner":4758502092
+      }
+   },
    "Clearcreek Metropolitan Police Department":{
 	   "GroupID":34288081,
             "ClassB":{
